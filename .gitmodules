@@ -1,0 +1,9 @@
+[submodule "TFC2-20212123-LaTeX"]
+	path = TFC2-20212123-LaTeX
+	url = https://github.com/marcohinojosag/TFC2-20212123-LaTeX.git
+[submodule "TFC2-20212123-HW"]
+	path = TFC2-20212123-HW
+	url = https://github.com/marcohinojosag/TFC2-20212123-HW.git
+[submodule "TFC2-20212123-SW"]
+	path = TFC2-20212123-SW
+	url = https://github.com/marcohinojosag/TFC2-20212123-SW.git
